@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+
+# Experiment output
+runs/
+*.log
+
+# Recordings
+*.mp4
+*.mkv
+*.mov
+
+# C++ build output
+cpp/build/
+*.o
+*.out
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
+*.sublime-workspace
